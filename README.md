@@ -12,15 +12,10 @@ etc…
 
 ## Screenshots
 
-**Launch Screen**
-
 <p float="left">
- <img src="https://github.com/OmRajpurkar/Oms-Dicee/blob/master/Screenshots/LaunchScreen.PNG?raw=true" alt="alt text" width="200" height="450">
-</p>
-
-**Rolling Dice**
-
-<p float="left">
- <img src="https://github.com/OmRajpurkar/Oms-Dicee/blob/master/Screenshots/OmsDicee1.PNG?raw=true" alt="alt text" width="200" height="450">
- <img src="https://github.com/OmRajpurkar/Oms-Dicee/blob/master/Screenshots/OmsDicee2.PNG?raw=true" alt="alt text" width="200" height="450">
+ <img src="https://github.com/OmRajpurkar/Magic-8-Ball/blob/master/Screenshots/1.PNG?raw=true" alt="alt text" width="200" height="450">
+ <img src="https://github.com/OmRajpurkar/Magic-8-Ball/blob/master/Screenshots/2.PNG?raw=true" alt="alt text" width="200" height="450">
+ <img src="https://github.com/OmRajpurkar/Magic-8-Ball/blob/master/Screenshots/3.PNG?raw=true" alt="alt text" width="200" height="450">
+ <img src="https://github.com/OmRajpurkar/Magic-8-Ball/blob/master/Screenshots/4.PNG?raw=true" alt="alt text" width="200" height="450">
+ <img src="https://github.com/OmRajpurkar/Magic-8-Ball/blob/master/Screenshots/5.PNG?raw=true" alt="alt text" width="200" height="450">
 </p>
